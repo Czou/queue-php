@@ -2,7 +2,7 @@
     "name": "puscene/queue-php",
     "type": "composer",
     "description": "meiwei open queue api",
-    "keywords": ["puscene","mwbyd","queue"],
+    "keywords": ["puscene","9now","mwbyd","queue"],
     "homepage": "http://www.mwbyd.co",
     "minimum-stability": "dev",
     "license": "MIT",
