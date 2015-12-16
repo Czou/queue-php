@@ -4,7 +4,6 @@
     "description": "meiwei open queue api",
     "keywords": ["puscene","9now","mwbyd","queue"],
     "homepage": "http://www.mwbyd.co",
-    "minimum-stability": "dev",
     "license": "MIT",
     "authors": [
         {
