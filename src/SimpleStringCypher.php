@@ -1,5 +1,7 @@
 <?php
 
+namespace Puscene;
+
 class SimpleStringCypher {
 
     public static function encrypt($input, $key){
