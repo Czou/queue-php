@@ -4,6 +4,10 @@
     "description": "meiwei open queue api",
     "keywords": ["puscene","9now","mwbyd","queue"],
     "homepage": "http://www.mwbyd.co",
+    "support": {
+        "issues": "https://github.com/kenneth/queue-php/issues",
+        "source": "https://github.com/kenneth/queue-php"
+    },
     "license": "MIT",
     "authors": [
         {
@@ -31,5 +35,6 @@
         "branch-alias": {
             "dev-master": "0.1-dev"
         }
-    }
+    },
+    "minimum-stability": "dev"
 }
