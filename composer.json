@@ -1,16 +1,25 @@
 {
     "name": "puscene/queue-php",
-    "description": "meiwei open queue api",
     "type": "composer",
-    "require": {
-        "guzzlehttp/guzzle": "^6.1"
-    },
+    "description": "meiwei open queue api",
+    "keywords": ["puscene","mwbyd","queue"],
+    "homepage": "http://www.mwbyd.co",
+    "minimum-stability": "dev",
     "license": "MIT",
     "authors": [
         {
             "name": "Kenneth",
-            "email": "kenneth1982@gmail.com"
+            "email": "kenneth1982@gmail.com",
+            "homepage": "https://github.com/kenneth"
         }
     ],
-    "minimum-stability": "dev"
+    "require": {
+        "php": ">=5.3.0",
+        "guzzlehttp/guzzle": "^6.1"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "0.1-dev"
+        }
+    }
 }
